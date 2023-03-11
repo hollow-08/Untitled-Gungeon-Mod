@@ -16,23 +16,25 @@ This mod is still being developed. Current list of developed features:
  ![Gun Fanatic's Magazine](https://github.com/hollow-08/Untitled-Gungeon-Mod/blob/main/Resources/gun_magazine.png)
  
 #### - Super Heart (Passive):
- To be added
+ *To be added*
  
  ![Heretic's Cross](https://github.com/hollow-08/Untitled-Gungeon-Mod/blob/main/Resources/super_heart.png)
  
 #### - Heretic's Cross (Active):
- To be added
+ *To be added*
  
  ![Heretic's Cross](https://github.com/hollow-08/Untitled-Gungeon-Mod/blob/main/Resources/heretics_cross_small.png)
  
 ## New Guns
 
 #### - Panic Attack:
-To be added
+*To be added*
 
 #### - Super Gun:
-To be added
+*To be added*
 
 ## New Rooms
+*To be added*
 
 ## New Enemies
+*To be added*
