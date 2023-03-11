@@ -13,7 +13,7 @@ This mod is still being developed. Current list of developed features:
  
  *(Rank: A)*
  
- ![Gun Fanatic's Magazine](https://drive.google.com/file/d/1uqqSCidykfXwrn0zVJD1ZUAFaWFoCF2z/view?usp=share_link)
+ ![Gun Fanatic's Magazine](https://github.com/hollow-08/Untitled-Gungeon-Mod/blob/main/Resources/gun_magazine.png)
  
 #### - Super Heart (Passive):
  To be added
