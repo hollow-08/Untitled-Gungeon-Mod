@@ -18,8 +18,12 @@ This mod is still being developed. Current list of developed features:
 #### - Super Heart (Passive):
  To be added
  
+ ![Heretic's Cross](https://github.com/hollow-08/Untitled-Gungeon-Mod/blob/main/Resources/super_heart.png)
+ 
 #### - Heretic's Cross (Active):
  To be added
+ 
+ ![Heretic's Cross](https://github.com/hollow-08/Untitled-Gungeon-Mod/blob/main/Resources/heretics_cross_small.png)
  
 ## New Guns
 
