@@ -34,7 +34,7 @@ namespace UGM
 
             //Adds the item to the gungeon item list, the ammonomicon, the loot table, etc.
             //Do this after ItemBuilder.AddSpriteToObject!
-            ItemBuilder.SetupItem(item, shortDesc, longDesc, "ugm:gun_magazine");
+            ItemBuilder.SetupItem(item, shortDesc, longDesc, "ugm");
 
             //Debuffs
             ItemBuilder.AddPassiveStatModifier(item, PlayerStats.StatType.Health, -1, StatModifier.ModifyMethod.ADDITIVE);
