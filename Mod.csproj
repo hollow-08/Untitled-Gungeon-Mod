@@ -34,6 +34,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Items\Guns\SuperGun.cs" />
+    <Compile Include="Items\Guns\PanicAttack.cs" />
+    <Compile Include="Items\Actives\HereticsCross.cs" />
+    <Compile Include="Items\Passives\SuperHeart.cs" />
     <Compile Include="Items\Passives\GunMagazine.cs" />
     <Compile Include="Module.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -247,6 +251,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
+    <EmbeddedResource Include="Resources\super_heart.png" />
     <EmbeddedResource Include="Resources\gun_magazine.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

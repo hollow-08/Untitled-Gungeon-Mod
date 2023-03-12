@@ -6,6 +6,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using UnityEngine;
+using UGM.Items.Guns;
+using UGM.Items.Passives;
 
 namespace UGM
 {
@@ -27,6 +29,9 @@ namespace UGM
         public void GMStart(GameManager g)
         {
             GunMagazine.Register();
+            SuperHeart.Init();
+            PanicAttack.Add();
+            SuperGun.Add();
             Log($"{NAME} v{VERSION} started successfully.", TEXT_COLOR);
         }
 
